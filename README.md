@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Danich54rus
-- 👀 I’m interested in future
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on S&Box
-- 📫 How to reach me grighoriev_daniil@mail.ru
+- Hi, I’m @Danich54rus
+- Right now working at OAO "Radio and Mikroelecrtonica" as Embedded Developer
+- My mail: grighoriev_daniil@mail.ru
 
 <!---
 Danich27rus/Danich27rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
