@@ -1,4 +1,4 @@
-- Hi, I’m @Danich54rus
+- Hi, I’m Daniil, student at NSTU
 - Right now working at JSC "Radio and Mikroelecrtonica" as Embedded Developer
 - My mail: grighoriev_daniil@mail.ru
 - My Telegram: @Captain_Kirk54
