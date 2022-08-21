@@ -1,6 +1,7 @@
 - Hi, I’m @Danich54rus
-- Right now working at OAO "Radio and Mikroelecrtonica" as Embedded Developer
+- Right now working at JSC "Radio and Mikroelecrtonica" as Embedded Developer
 - My mail: grighoriev_daniil@mail.ru
+- My Telegram: @Captain_Kirk54
 
 <!---
 Danich27rus/Danich27rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
