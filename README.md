@@ -1,5 +1,5 @@
 - Hi, I’m Daniil, student at NSTU
-- Right now working at JSC "Radio and Mikroelecrtonica" as Embedded Developer
+- Right now working at JSC "Radio and Mikroelecrtonica" as Dekstop/Embedded Developer
 - My mail: grighoriev_daniil@mail.ru
 - My Telegram: @Captain_Kirk54
 
