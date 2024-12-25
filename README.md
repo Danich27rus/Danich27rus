@@ -1,5 +1,5 @@
 - Hi, I’m Daniil, have NSTU bachelor degree
-- Right now working at EXPERO as Backend Developer
+- Right now working at EXPERO (RENEWAL) as Backend Developer
 - My mail: grighoriev_daniil@mail.ru
 - My Telegram: @Captain_Kirk54
 
